@@ -1,0 +1,6 @@
+@HvadStemmerDe.backend_HostAddress = http://localhost:5211
+
+GET {{HvadStemmerDe.backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

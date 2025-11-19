@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HvadStemmerDe.backend.props" />
+</Project>
