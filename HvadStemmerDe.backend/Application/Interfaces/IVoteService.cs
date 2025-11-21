@@ -1,6 +1,6 @@
 using HvadStemmerDe.backend.Application.DTOs;
 
-namespace HvadStemmerDe.Application.Interfaces
+namespace HvadStemmerDe.backend.Application.Interfaces
 {
     public interface IVoteService
     {

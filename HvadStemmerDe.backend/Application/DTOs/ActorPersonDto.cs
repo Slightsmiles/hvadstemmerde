@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 namespace HvadStemmerDe.backend.Application.DTOs
 {
     // Minimal information required to identify an aktør
-    public class ActorDto
+    public class ActorPersonDto
     {
         public int Id {get; set;}
         

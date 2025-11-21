@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HvadStemmerDe.backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf18745eb248573315bac3202602478a8beab35")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a3e81bf30f937705a2ec7c008d6da70324e688e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HvadStemmerDe.backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HvadStemmerDe.backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
